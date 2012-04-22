@@ -1,0 +1,44 @@
+#wrap {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.pog {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 3px solid black;  
+    float: left;
+    margin: 10px;
+    -webkit-box-shadow: 2px -3px 5px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 2px -3px 5px rgba(50, 50, 50, 0.75);
+    box-shadow: 2px -3px 5px rgba(50, 50, 50, 0.75);
+}
+
+#pogFront {
+    background: url('http://www.warpzoned.com/wp-content/uploads/2011/02/Love_for_Tetris.jpg') center center;
+    background-size: cover;
+}
+
+.back {
+    background: url('http://images2.wikia.nocookie.net/__cb20110911190103/logopedia/images/b/b7/Pogs_logo.jpg') center center;
+    background-size: 103%;
+}
+
+#newImage {
+    margin-left: 10px;
+    width: 420px;
+    margin-top: 9px;
+}
+
+#go {
+    margin-left: 4px;
+}
+
+.bump {
+    margin-left: 10px;
+}
+
+.label {
+    float: left;
+}
