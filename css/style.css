@@ -1,6 +1,6 @@
 #wrap {
-    margin-top: 10px;
-    margin-left: 10px;
+    margin: 10px auto;
+    width: 575px;
 }
 
 .pog {
@@ -16,7 +16,7 @@
 }
 
 #pogFront {
-    background: url('http://www.warpzoned.com/wp-content/uploads/2011/02/Love_for_Tetris.jpg') center center;
+    background: url('http://octodex.github.com/images/octonaut.jpg') center center;
     background-size: cover;
 }
 
